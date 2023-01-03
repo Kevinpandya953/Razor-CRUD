@@ -7,15 +7,14 @@ CRUD operations using Razor pages MVC
 A sample Create/Read/Update/Delete web application using MVC framework and razor pages scaffolding onepage operations with complete responsive backend database connection.
 
 
-!(https://user-images.githubusercontent.com/67968240/210403563-51398cdc-f722-4cd9-a472-331dd4ea5628.jpg)
+![2](https://user-images.githubusercontent.com/67968240/210404101-677ef3aa-406e-426b-8868-ff261472bc0b.jpg)
 
+![3](https://user-images.githubusercontent.com/67968240/210404106-d64e95c7-cb8d-46cb-8242-e1edab4a5512.jpg)
 
-!(https://user-images.githubusercontent.com/67968240/210403603-d74d5446-681a-40ca-9c50-d63a644614ec.jpg)
+![4](https://user-images.githubusercontent.com/67968240/210404115-290ff953-9727-4195-a71e-5fd55e6ae90e.jpg)
 
-!(https://user-images.githubusercontent.com/67968240/210403675-cc9752ff-3933-482b-afb1-a914fe333376.jpg)
+![5](https://user-images.githubusercontent.com/67968240/210404120-a6bc3d85-4bac-42f2-bbef-8d6ae2ac42f2.jpg)
 
-!(https://user-images.githubusercontent.com/67968240/210403741-9e0e2395-4c54-4bec-bb44-6594fccdf8f4.jpg)
 
 Backend local Db
-
-!(https://user-images.githubusercontent.com/67968240/210403803-9c8b90f3-67ad-4eca-93b3-315746e1ecf9.jpg)
+![1](https://user-images.githubusercontent.com/67968240/210404181-fea5c575-0fc5-4cd4-9c2b-39a53a924532.jpg)
